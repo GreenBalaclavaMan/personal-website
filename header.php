@@ -13,7 +13,7 @@
 
           <!--Page Title-->
           <title>
-               <?php echo $title; ?>
+               <?php echo $title . " - Nicholas Rinella"; ?>
           </title>
      </head>
 
@@ -26,6 +26,16 @@
                <div class="div-header">
                     <!--Logo-->
                     <a href="index.php">
-                         <img class="header-logo" src="images/bannerLogoInvertedCropped.png" alt="WebOTP Logo">
+                         <img class="header-logo" src="images/catGif.gif" alt="Website Logo">
                     </a>
+                    <table>
+                         <tr>
+                              <td>
+                                   <a href="main.php">Home</a>
+                              </td>
+                              <td>
+                                   <a href="resume.php">Who am I?</a>
+                              </td>
+                         </tr>
+                    </table>
                </div>
