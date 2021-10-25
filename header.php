@@ -19,8 +19,9 @@
 
      <body>
 
-          <!-- start of main page content. -->
-		www.nicholasrinella.com<br>
+		<!-- Site info -->
+		www.nicholasrinella.com [v1.0.0]<br>
 		(c)2021 Nicholas Rinella<br>
 
+          <!-- start of main page content. -->
 		<br>
